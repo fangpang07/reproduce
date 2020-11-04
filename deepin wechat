@@ -1,0 +1,15 @@
+sudo apt install gnome-tweak-tool
+https://blog.csdn.net/iehadoop/article/details/84430533?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+# 不知道有什么用。
+
+https://github.com/wszqkzqk/deepin-wine-ubuntu
+
+不能显示中文的问题：
+
+sudo apt-get install locales
+sudo dpkg-reconfigure locales
+
+设置zh_CN.UTF-8
+
+显示了中文但是输入是黑块
+
